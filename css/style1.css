@@ -32,3 +32,6 @@ aside{
    width:120px;
     background:green;
 }
+li{
+    display: inline;
+}
