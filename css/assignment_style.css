@@ -43,15 +43,9 @@ letter-spacing: 2px;
     width:100%;  
     background-color:rgb(210, 231, 233);
 }
-.container{
-    padding-top:10px;
-}
 .container h2{
     font-family:cursive;
     
-}
-.container p desc{
-    line-height: 1px;
 }
 .container_12 .grid_4 a:hover{
     font-size:10px;
