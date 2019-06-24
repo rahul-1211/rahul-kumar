@@ -47,6 +47,9 @@ letter-spacing: 2px;
     font-family:cursive;
     
 }
+.container_12 .grid_4 a{
+    text-decoration:none;
+}
 .container_12 .grid_4 a:hover{
     font-size:10px;
     text-decoration:underline;
